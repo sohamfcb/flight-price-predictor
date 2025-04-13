@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+plotly
+feature_engine
+xgboost
+
+flask
+flask-wtf
+Flask-Session
