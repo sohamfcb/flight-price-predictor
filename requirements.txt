@@ -4,9 +4,11 @@ matplotlib
 seaborn
 scikit-learn
 plotly
-feature_engine
+feature-engine
 xgboost
 
 flask
 flask-wtf
 Flask-Session
+
+gunicorn
